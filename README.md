@@ -36,7 +36,7 @@
   - [16.TownOfHost Plus](#16townofhost-plus)
   - [17.TownOfHost_Y](#11townofhost_y)
   - [18.TownOfHostEdited](#18townofhostedited)
-  - [19.TheOtherRolesMR] (#19TheOtherRoles-MR)
+  - [19.TheOtherRolesMR](#19TheOtherRoles-MR)
 - [工具](#工具)
   - [１.BetterCrewLink](#１bettercrewlink)
   - [２.CrewLink](#２crewlink)
