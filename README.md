@@ -15,8 +15,8 @@
   - [8.TownOfHost](#8townofhost)
   - [9.TownOfHost-TheOtherRoles](#9townofhost---theotherroles)
   - [10.AllTheRoles](#10alltheroles)
-  - [11.TownOfHost_Y](#11townofhost_y)
   - [12.TownOfUsReworked](#12townofusreworked)
+  - [13.TheOtherRoles CE](#17theotherroles-ce)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -34,8 +34,9 @@
   - [14.PropHunt](#14prophunt)
   - [15.TownOfLoonie](#15townofloonie)
   - [16.TownOfHost Plus](#16townofhost-plus)
-  - [17.TheOtherRoles CE](#17theotherroles-ce)
+  - [17.TownOfHost_Y](#11townofhost_y)
   - [18.TownOfHostEdited](#18townofhostedited)
+  - [19.TheOtherRolesMR] (#19TheOtherRoles-MR)
 - [工具](#工具)
   - [１.BetterCrewLink](#１bettercrewlink)
   - [２.CrewLink](#２crewlink)
@@ -320,18 +321,6 @@ Among Us 支持版本：2023.3.28
 Among Us 支持版本：2023.2.28  
 更新状况：持续更新  
 
-<!--
-
-## 8.TheOtherRoles MR
-
-[Github仓库 ( 点这 ) ](https://github.com/miru-y/TheOtherRoles-MR)
-
-最新版本：v2.8.1  
-Among Us 支持版本：2022.10.25  
-更新状况：断更
-
--->
-
 ## 8.TownOfHost
 
 ![image](Image/TownOfHost-Title.png)  
@@ -372,7 +361,7 @@ Among Us 支持版本：2023.3.28
 
 最新版本：v412.9.1 
 Among Us 支持版本：2023.3.28  
-更新状况：即将停更（作者已发通知）  
+更新状况：停更
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，来自日本，由一人开发。~~可能是唯一一个会直播敲代码的模组~~
 
@@ -662,11 +651,11 @@ Among Us 支持版本：2022.12.14
 
 ## 12.TheOtherRoles GM-Haoming
 
-[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/GMH)  
+[ GitHub仓库(已删) ( 点这 ) ](https://github.com/haoming37/GMH)  
 
 最新版本：v2.3.136  
 Among Us 支持版本：2022.10.25  
-更新状况：断更(作者在冬眠)  
+更新状况：断更(作者删库跑路)  
 
 > ### 介绍  
 >
@@ -764,7 +753,7 @@ Among Us 支持版本：2023.3.28
 
 最新版本：v5.7.2  
 Among Us 支持版本：2022.10.25  
-更新状况：停更  
+更新状况：正在重做  
 
 ## 18.TownOfHostEdited
 
@@ -778,6 +767,15 @@ Among Us 支持版本：2023.3.28
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由一人开发的国人模组。几乎占据了大部分 Host 模组的玩家占比后突然停更。目前该模组的数个分支还在持续更新。
 
+## 19.TheOtherRoles MR
+
+[Github仓库 ( 点这 ) ](https://github.com/miru-y/TheOtherRoles-MR)
+
+GitHub最新版本：v2.8.1 
+YouTube最新版：v.2.9.11 
+GitHub版本Among Us 支持版本：2022.10.25  
+YouTube版本Among Us 支持版本：2023.03.28  
+更新状况：断更
 
 # 工具
 
