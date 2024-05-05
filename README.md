@@ -104,8 +104,8 @@ Among Us 支持版本：
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/TheOtherRolesAU/TheOtherRoles)  
 
-最新版本：v4.3.2  
-Among Us 支持版本：2023.3.28  
+最新版本：v4.5.2  
+Among Us 支持版本：2024.3.5  
 更新状况：持续更新中  
 
 <!--
@@ -150,8 +150,8 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/eDonnes124/Town-Of-Us-R)  
 
-最新版本：v4.0.6  
-Among Us 支持版本：2023.3.28   
+最新版本：v5.0.4  
+Among Us 支持版本：2024.3.5   
 更新状况：持续更新中  
 
 <!--
@@ -190,8 +190,8 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/KiraYamato94/LasMonjas)  
 
-最新版本：v3.1.7  
-Among Us 支持版本：2023.3.28  
+最新版本：v3.7.3  
+Among Us 支持版本：2024.3.5  
 更新状况：持续更新中  
 
 > ### 切换汉语
@@ -251,9 +251,9 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/Dolly1016/Nebula)  
 
-最新版本：v2.3.1  
-Among Us 支持版本：2023.3.28   
-更新状况：可能停更（作者已发通知）
+最新版本：v24.05.04c  
+Among Us 支持版本：2024.3.5  
+更新状况：作者努力更新中
 
 <!--
 
@@ -296,8 +296,8 @@ Among Us 支持版本：2023.3.28
 
 ![image](Image/ExtremeRoles_banner.png)
 
-最新版本：v7.1.2.4  
-Among Us 支持版本：2023.3.28  
+最新版本：v10.1.1.0  
+Among Us 支持版本：2024.3.5  
 更新状况：持续更新中  
 
 ## 6.SuperNewRoles (超新职业)
@@ -306,8 +306,8 @@ Among Us 支持版本：2023.3.28
 
 [Github仓库 ( 点这 ) ](https://github.com/ykundesu/SuperNewRoles)
 
-最新版本：v1.7.2.0  
-Among Us 支持版本：2023.3.28  
+最新版本：v2.2.2.2  
+Among Us 支持版本：2024.3.5  
 更新状况：持续更新中  
 
 > 来自日本，正常玩建议私服游玩。主要开发者同时也参与 [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的开发。拥有 Host 模式，开启后只需要房主安装模组所有人都可以玩
@@ -317,9 +317,9 @@ Among Us 支持版本：2023.3.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/SpexGH/TheOtherUs)  
 
-最新版本：v1.2.7  
-Among Us 支持版本：2023.2.28  
-更新状况：持续更新  
+最新版本：v1.3.6  
+Among Us 支持版本：2024.3.5  
+更新状况：持续更新(开发已换)  
 
 ## 8.TownOfHost
 
@@ -327,8 +327,8 @@ Among Us 支持版本：2023.2.28
 
 [Github仓库 ( 点这 ) ](https://github.com/tukasa0001/TownOfHost)
 
-最新版本：v5.0.0  
-Among Us 支持版本：2023.3.28  
+最新版本：v5.1.6  
+Among Us 支持版本：2024.3.5  
 更新状况：持续更新中  
 
 > 来自日本，只需要房主安装模组，所有人都可以一起玩
@@ -339,7 +339,7 @@ Among Us 支持版本：2023.3.28
 
 最新版本：v0.9.3.11b  
 Among Us 支持版本：2023.2.28  
-更新状况：持续更新中  
+更新状况：断更  
 
 > [TownOfHost](https://github.com/tukasa0001/TownOfHost) 的分支，由来自各国的开发者共同开发，目前原主要开发者 [music-discussion](https://github.com/music-discussion) 几乎不再参与，来自韩国的 단풍잎 正在尝试开发新的 AmongUs Mod API
 
@@ -349,8 +349,8 @@ Among Us 支持版本：2023.2.28
 
 [Github仓库 ( 点这 ) ](https://github.com/Zeo666/AllTheRoles)  
 
-最新版本：v0.10.3  
-Among Us 支持版本：2023.3.28  
+最新版本：v0.11.10  
+Among Us 支持版本：2024.3.5  
 更新状况：持续更新中  
 
 > 建议私服游玩  
@@ -417,11 +417,11 @@ Among Us 支持版本：2023.2.28
 
 [Github仓库 ( 点这 ) ](https://github.com/AlchlcDvl/TownOfUsReworked)  
 
-最新版本：v0.3.1  
-Among Us 支持版本：2023.3.28  
+最新版本：v0.6.6  
+Among Us 支持版本：2024.3.5  
 更新状况：持续更新中  
 
-<!-- 暂时注释，等出正式版再加
+<!-- 暂时注释，等出正式版再加(挂了)
 
 ## 19.TownOfThem
 ![image](https://github.com/JieGeLovesDengDuaLang/TownOfThem/raw/main/Resources/totLogo.png)  
@@ -606,7 +606,7 @@ Among Us 支持版本：2022.2.24
 
 最新版本：v3.0.0-pre2.2  
 Among Us 支持版本：2022.3.29  
-更新状况：断更
+更新状况：断更(作者私密仓库复更)
 
 > ### 职业
 >
@@ -643,19 +643,19 @@ Among Us 支持版本：2022.3.29
 
 ![image](Image/UltimateModsWiki.png)  
 
-[Github仓库 ( 点这 ) ](https://github.com/Dekokiyo/UltimateMods)
+[Github仓库 ( 点这(已删) ) ](https://github.com/Dekokiyo/UltimateMods)
 
 最新版本：v1.3.0  
 Among Us 支持版本：2022.12.14  
-更新状况：断更  
+更新状况：断更(作者删库跑路)  
 
 ## 12.TheOtherRoles GM-Haoming
 
-[ GitHub仓库(已删) ( 点这 ) ](https://github.com/haoming37/GMH)  
+[ GitHub仓库 ( 点这 ) ](https://github.com/haoming37/GMH)  
 
 最新版本：v2.3.136  
 Among Us 支持版本：2022.10.25  
-更新状况：断更(作者删库跑路)  
+更新状况：断更(作者跑路)  
 
 > ### 介绍  
 >
@@ -783,7 +783,7 @@ YouTube版本Among Us 支持版本：2023.03.28
 
 [ GitHub仓库 ( 点这 ) ](https://github.com/OhMyGuus/BetterCrewlink)  
 
-最新版本：v3.0.5  
+最新版本：v3.1.3  
 Among Us 支持版本：大部分Among Us 版本  
 更新状况：持续更新中  
 
